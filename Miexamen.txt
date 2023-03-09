@@ -1,0 +1,15 @@
+1.	¿Qué es Git? 
+Git es un controlador de versiones una forma de copiar subir, copiar, clonar archivos para guardarlos en la nube
+2.	¿Qué es GitHub?
+Git hub es el lugar en donde se almacenan a donde se envía y se modifica la información que se envía desde git
+3.	Describe la funcionalidad de los siguientes comandos de GIT Bash:
+a.	Clone Para clonar archivos
+b.	Status Para saber que cambio en el 
+c.	Diff Para revisar los cdambios que se hicieron
+d.	Add Para agregar archivos o una lista de cambio
+e.	Commit Para empaquetar lo que se va a subir 
+f.	Push Para mandar lo que se va subir 
+g.	Merge  Es una forma que git tiene para devolver un historial
+h.	Pull Es para degarcar o extraer contenido del archivo
+i.	Fetch Se usa para descargar contenidos del repositorio 
+
