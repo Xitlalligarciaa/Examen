@@ -12,4 +12,9 @@ f.	Push Para mandar lo que se va subir
 g.	Merge  Es una forma que git tiene para devolver un historial
 h.	Pull Es para degarcar o extraer contenido del archivo
 i.	Fetch Se usa para descargar contenidos del repositorio 
+a.	¿Para qué sirve el comando cd? Es como la llev para entrar a los escaios como carpetas 
+b.	¿Para qué sirve el comando dir? Es para saber el directorio de lo que hay en las carpetas  
+c.	¿Para qué sirve el comando mkdir? Es como una orden para crear un nuevo directorio 
+d.	¿Para qué sirve el comando cd ..? ES para volver al paso anterior
+
 
